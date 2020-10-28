@@ -16,6 +16,17 @@ body{text-emphasis:strong;
     width: 50%;
 }
 
+.searchbox {  display: block;
+    margin-top:150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+
+}
+
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -31,7 +42,17 @@ ul {
     text-decoration:none;
   }
 
-  
+#central {
+
+    text-align:center;
+
+    display:block;
+    
+    padding:14px;
+
+}
+
+
   /* Change the link color on hover */
   li:hover {
     text-decoration:underline  }
